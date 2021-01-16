@@ -1,0 +1,82 @@
+2021-01-15 23:05:41,606 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:07:31,519 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:33:48,257 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:33:59,238 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:34:01,413 - InterviewPractical -INFO - **************Providing Email id***************
+2021-01-15 23:34:06,864 - InterviewPractical -INFO - *************clicking on Next after Entering Email id****************
+2021-01-15 23:34:12,319 - InterviewPractical -INFO - **************Providing Password***************
+2021-01-15 23:34:12,769 - InterviewPractical -INFO - *************clicking on Next after Entering Password ****************
+2021-01-15 23:34:13,140 - InterviewPractical -INFO - *************Verifiying login successful or not ****************
+2021-01-15 23:34:50,131 - InterviewPractical -INFO - *************clicking on compose and maximize window ****************
+2021-01-15 23:34:58,072 - InterviewPractical -INFO - *************clicking enters_recipient email id,subject and message body ****************
+2021-01-15 23:34:59,441 - InterviewPractical -INFO - *************clicking on send button ****************
+2021-01-15 23:35:14,145 - InterviewPractical -INFO - *************clicking on items to check whether email actually sent or not and capture screenshot as proff ****************
+2021-01-15 23:35:18,072 - InterviewPractical -INFO - *************clicking on logout ****************
+2021-01-15 23:35:19,277 - InterviewPractical -INFO - *************closing browser ****************
+2021-01-15 23:35:26,672 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:35:34,885 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:35:35,785 - InterviewPractical -INFO - *************Enter correct email id ****************
+2021-01-15 23:35:36,470 - InterviewPractical -INFO - *************clicking on next ****************
+2021-01-15 23:35:41,912 - InterviewPractical -INFO - *************Enters incorrect password ****************
+2021-01-15 23:35:42,502 - InterviewPractical -INFO - *************clicking on next button after entering incorrect password ****************
+2021-01-15 23:35:45,180 - InterviewPractical -INFO - *************Geting error message and taking sceenshot as proof ****************
+2021-01-15 23:35:45,884 - InterviewPractical -INFO - *************Closing browser ****************
+2021-01-15 23:39:23,459 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:39:31,479 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:39:32,512 - InterviewPractical -INFO - **************Providing Email id***************
+2021-01-15 23:39:37,970 - InterviewPractical -INFO - *************clicking on Next after Entering Email id****************
+2021-01-15 23:39:43,505 - InterviewPractical -INFO - **************Providing Password***************
+2021-01-15 23:39:44,017 - InterviewPractical -INFO - *************clicking on Next after Entering Password ****************
+2021-01-15 23:39:44,288 - InterviewPractical -INFO - *************Verifiying login successful or not ****************
+2021-01-15 23:40:27,487 - InterviewPractical -INFO - *************clicking on compose and maximize window ****************
+2021-01-15 23:40:35,803 - InterviewPractical -INFO - *************enters_recipient email id,subject and message body ****************
+2021-01-15 23:40:38,081 - InterviewPractical -INFO - *************clicking on send button ****************
+2021-01-15 23:40:52,066 - InterviewPractical -INFO - *************clicking on sent items to check whether email actually sent or not and capture screenshot as proff ****************
+2021-01-15 23:40:57,037 - InterviewPractical -INFO - *************clicking on logout ****************
+2021-01-15 23:40:58,043 - InterviewPractical -INFO - *************closing browser ****************
+2021-01-15 23:41:05,148 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:41:15,415 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:41:17,104 - InterviewPractical -INFO - *************Enter correct email id ****************
+2021-01-15 23:41:17,722 - InterviewPractical -INFO - *************clicking on next ****************
+2021-01-15 23:45:37,907 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:45:51,150 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:45:54,169 - InterviewPractical -INFO - **************Providing Email id***************
+2021-01-15 23:45:59,601 - InterviewPractical -INFO - *************clicking on Next after Entering Email id****************
+2021-01-15 23:46:05,118 - InterviewPractical -INFO - **************Providing Password***************
+2021-01-15 23:46:05,687 - InterviewPractical -INFO - *************clicking on Next after Entering Password ****************
+2021-01-15 23:46:05,965 - InterviewPractical -INFO - *************Verifiying login successful or not ****************
+2021-01-15 23:46:51,781 - InterviewPractical -INFO - *************clicking on compose and maximize window ****************
+2021-01-15 23:46:59,840 - InterviewPractical -INFO - *************enters_recipient email id,subject and message body ****************
+2021-01-15 23:47:01,853 - InterviewPractical -INFO - *************clicking on send button ****************
+2021-01-15 23:47:15,979 - InterviewPractical -INFO - *************clicking on sent items to check whether email actually sent or not and capture screenshot as proff ****************
+2021-01-15 23:47:20,671 - InterviewPractical -INFO - *************clicking on logout ****************
+2021-01-15 23:47:21,702 - InterviewPractical -INFO - *************closing browser ****************
+2021-01-15 23:47:29,173 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:47:37,313 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:47:38,371 - InterviewPractical -INFO - *************Enter correct email id ****************
+2021-01-15 23:47:39,727 - InterviewPractical -INFO - *************clicking on next ****************
+2021-01-15 23:47:47,137 - InterviewPractical -INFO - *************Enters incorrect password ****************
+2021-01-15 23:47:47,750 - InterviewPractical -INFO - *************clicking on next button after entering incorrect password ****************
+2021-01-15 23:47:50,434 - InterviewPractical -INFO - *************Geting error message and taking sceenshot as proof ****************
+2021-01-15 23:47:50,865 - InterviewPractical -INFO - *************Closing browser ****************
+2021-01-15 23:56:45,697 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:56:58,622 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:57:02,560 - InterviewPractical -INFO - **************Providing Email id***************
+2021-01-15 23:57:08,508 - InterviewPractical -INFO - *************clicking on Next after Entering Email id****************
+2021-01-15 23:57:14,102 - InterviewPractical -INFO - **************Providing Password***************
+2021-01-15 23:57:15,023 - InterviewPractical -INFO - *************clicking on Next after Entering Password ****************
+2021-01-15 23:57:15,266 - InterviewPractical -INFO - *************Verifiying login successful or not ****************
+2021-01-15 23:58:31,920 - InterviewPractical -INFO - *************clicking on compose and maximize window ****************
+2021-01-15 23:58:43,329 - InterviewPractical -INFO - *************enters_recipient email id,subject and message body ****************
+2021-01-15 23:58:44,722 - InterviewPractical -INFO - *************clicking on send button ****************
+2021-01-15 23:58:59,277 - InterviewPractical -INFO - *************clicking on sent items to check whether email actually sent or not and capture screenshot as proff ****************
+2021-01-15 23:59:04,479 - InterviewPractical -INFO - *************clicking on logout ****************
+2021-01-15 23:59:06,670 - InterviewPractical -INFO - *************closing browser ****************
+2021-01-15 23:59:16,966 - InterviewPractical -INFO - **************Launching Browser***************
+2021-01-15 23:59:26,246 - InterviewPractical -INFO - **************Opening URL***************
+2021-01-15 23:59:27,983 - InterviewPractical -INFO - *************Enter correct email id ****************
+2021-01-15 23:59:29,576 - InterviewPractical -INFO - *************clicking on next ****************
+2021-01-15 23:59:37,051 - InterviewPractical -INFO - *************Enters incorrect password ****************
+2021-01-15 23:59:38,020 - InterviewPractical -INFO - *************clicking on next button after entering incorrect password ****************
+2021-01-15 23:59:40,799 - InterviewPractical -INFO - *************Geting error message and taking sceenshot as proof ****************
+2021-01-15 23:59:41,579 - InterviewPractical -INFO - *************Closing browser ****************
